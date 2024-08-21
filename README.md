@@ -1,3 +1,3 @@
 # archana
-this is my first git repository/n
+this is my first git repository
 author pankaj
